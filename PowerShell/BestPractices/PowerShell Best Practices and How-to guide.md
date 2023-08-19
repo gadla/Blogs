@@ -1,8 +1,6 @@
 ## PowerShell Best Practices
 <img src="./Images/BestPracticesKey.jpg" alt="Description of Image" width="20%" height="20%">
 
-## Table Of Content
-
 ## Table of Contents
 
 - [Introduction](#Introduction)
