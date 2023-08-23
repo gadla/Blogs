@@ -273,7 +273,7 @@ Parameters allow PowerShell functions to be flexible, interactive, and respond d
 9. Switch parameters - Do not set a default value for switch parameters or make it mandatory. 
 10. Document thoroughly - Use comment-based help to describe parameters in detail.
 
-### Parameter Validateion <a id="ParameterValidateion"></a>
+### Parameter Validation <a id="ParameterValidateion"></a>
 
 Parameter validation is a critical technique for enhancing the reliability and robustness of PowerShell functions. By validating parameter input using attributes like `[ValidateNotNull]`, `[ValidatePattern]`, and `[ValidateSet]`, you can catch errors and incorrect data early before it causes issues downstream in your code.
 
